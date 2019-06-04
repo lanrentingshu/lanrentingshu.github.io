@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://lrtest.lrts.me/lazyaudioinhouse.ipa?id=4</string>
+					<string>http://gitlab.lrts.me/openfile/handoutPackage/blob/master/lazyaudio/lazyaudioinhouse.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
